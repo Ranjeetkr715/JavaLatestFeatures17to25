@@ -1,4 +1,4 @@
-
+package com.java17.sealed;
 
 
 public class SealedMainMethod {

@@ -1,4 +1,4 @@
-
+package com.java17.sealed;
 
 
 non-sealed public class MessageGenerationClass implements GenerateVoiceAndMessage{
