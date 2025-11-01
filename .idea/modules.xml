@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Java17UpdatedFeature.iml" filepath="$PROJECT_DIR$/Java17UpdatedFeature.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaUpdatedFeature.iml" filepath="$PROJECT_DIR$/JavaUpdatedFeature.iml" />
     </modules>
   </component>
 </project>
